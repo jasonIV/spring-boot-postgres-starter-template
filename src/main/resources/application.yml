@@ -1,0 +1,16 @@
+spring:
+  jpa:
+    hibernate:
+      database-platform: org.hibernate.dialect.PostgreSQLDialect
+      ddl-auto: update
+  datasource:
+    url: jdbc:postgresql://localhost:5432/magicrouteorderdelivery
+    username: postgres
+    password: qwerty12345
+logging:
+  file:
+    name: application-debug.log
+  level:
+    org.springframework.web: ERROR
+    com.thamadaw.orderdelivery: INFO
+    org.hibernate: ERROR
