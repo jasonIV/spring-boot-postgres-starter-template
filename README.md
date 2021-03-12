@@ -1,4 +1,5 @@
 #Spring Boot + Postgres Starter Template
+
 Clone the repo with
 ```
 git clone https://github.com/jasonIV/spring-boot-postgres-starter-template.git
