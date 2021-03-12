@@ -1,4 +1,4 @@
-#Spring Boot + Postgres Starter Template
+# Spring Boot + Postgres Starter Template
 
 Clone the repo with
 ```
